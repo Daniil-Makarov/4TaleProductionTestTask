@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e290e24bcbbe4632b2e777aefdf38c58, type: 3}
+  m_Name: RoomsConfig
+  m_EditorClassIdentifier: 
+  Rooms:
+  - EnemyConfigs:
+    - {fileID: 11400000, guid: 6ea3ff471f2fc44489236b8ba6dd772f, type: 2}
+    - {fileID: 11400000, guid: 60a910a0b291953428619fed3106a603, type: 2}
+  - EnemyConfigs:
+    - {fileID: 11400000, guid: 9ee33194252cfec41a148af50d011ac8, type: 2}
+  - EnemyConfigs:
+    - {fileID: 11400000, guid: c6c72e5d999410441830c0c4c494a971, type: 2}
+    - {fileID: 11400000, guid: 60a910a0b291953428619fed3106a603, type: 2}
+  - EnemyConfigs:
+    - {fileID: 11400000, guid: c19905b8c795e864cad5e231cb8da5bc, type: 2}
+  - EnemyConfigs:
+    - {fileID: 11400000, guid: 6ea3ff471f2fc44489236b8ba6dd772f, type: 2}
+    - {fileID: 11400000, guid: bb8f6d7a423b0784d8c5c0497eb1b4d6, type: 2}

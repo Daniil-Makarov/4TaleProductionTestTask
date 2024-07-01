@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 826b2d5a0ada44cb83388a1cd2d00b52, type: 3}
+  m_Name: CultistEnemyConfig
+  m_EditorClassIdentifier: 
+  Sprite: {fileID: 21300000, guid: 254ccda119032d149b06275b549f5ec6, type: 3}
+  MaxHealth: 50
+  Commands:
+  - Probability: 50
+    Type: 0
+    Value: 8
+  - Probability: 30
+    Type: 1
+    Value: 10
+  - Probability: 20
+    Type: 0
+    Value: 16

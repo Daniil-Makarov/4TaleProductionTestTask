@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6d560a04c577cb4b9126d307619ce32, type: 3}
+  m_Name: PlayerConfig
+  m_EditorClassIdentifier: 
+  MaxHealth: 80
+  Cards:
+  - {fileID: 11400000, guid: f974ea330e910c2428bff38ed6581e76, type: 2}
+  - {fileID: 11400000, guid: 512a6e20972176b4295ee5b721af3ee1, type: 2}
+  - {fileID: 11400000, guid: 272677af40c6ed144ab09dc41f48259e, type: 2}
+  - {fileID: 11400000, guid: 8265dc00c54594d4ab2041e6f9162f48, type: 2}
+  - {fileID: 11400000, guid: 7aec9de22c30a8f4cb45ea38ee090eb6, type: 2}
+  - {fileID: 11400000, guid: a96303ef2c3d8c849ab19f576a33a882, type: 2}
+  - {fileID: 11400000, guid: 6d21ec42703e1754680cbcfb750be2f8, type: 2}
+  - {fileID: 11400000, guid: 67da7e306bb001f40a3ff19ab86ed394, type: 2}

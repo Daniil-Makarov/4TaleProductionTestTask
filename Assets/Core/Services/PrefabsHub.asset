@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7551e9b6b1849d99931641ab1db7a36, type: 3}
+  m_Name: PrefabsHub
+  m_EditorClassIdentifier: 
+  Player: {fileID: 9051651077594283919, guid: e426c5ca111e82941b2dc0465314b71c, type: 3}
+  Enemy: {fileID: 1192378105755506427, guid: 88341ee7d47936349b7b427080098043, type: 3}
+  Card: {fileID: 868747096248922176, guid: 7d47e567636574c49b2f15e979e73a88, type: 3}
